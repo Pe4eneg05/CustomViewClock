@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CusctomClock</string>
+    <string name="text_info_time">Московское время</string>
+    <string name="text_button">Следующий экран</string>
+    <string name="text_button_back">Вернуться назад</string>
+</resources>
